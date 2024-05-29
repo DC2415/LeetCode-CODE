@@ -1,79 +1,53 @@
 class Solution {
-    // revisit it
-    static class DetectCycleGraph {
-		private int V;
-		private List<List<Integer>> edges;
+    public int[] findOrder(int n, int[][] prerequisites) {
+        ArrayList<ArrayList<Integer>> adj = new ArrayList<>();
+        for (int i = 0; i < n; i++) {
+            adj.add(new ArrayList<>());
+        }
 
-		DetectCycleGraph(int n) {
-			this.V = n;
-			System.out.println(n);
-			edges = new ArrayList<>();
+        for (int i = 0; i < prerequisites.length; i++) {
+            adj.get(prerequisites[i][1]).add(prerequisites[i][0]);
+        }
 
-			for (int i = 0; i < n; i++) {
-				edges.add(new ArrayList<>());
-			}
-		}
 
-		public DetectCycleGraph() {
-		}
 
-		private void addEdge(int i, int j) {
-			edges.get(i).add(j);
-		}
+        int indegree[] = new int[n];
+        for (int i = 0; i < n; i++) {
+            for (int it : adj.get(i)) {
+                indegree[it]++;
+            }
+        }
 
-		List<Integer> l = new ArrayList<>();
 
-		public int[] isCycle(DetectCycleGraph graph) {
+        Queue<Integer> q = new LinkedList<Integer>();
+        for (int i = 0; i < n; i++) {
+            if (indegree[i] == 0) {
+                q.add(i);
+            }
+        }
 
-			boolean[] visited = new boolean[this.V];
-			boolean[] curRec = new boolean[this.V];
-			for (int i = 0; i < this.V; i++) {
-				if (isCycleUtil(visited, curRec, i))
-					return new int[0];
-			}
 
-			int[] res = new int[V];
-			int index = 0;
-			for (Integer i : l) {
-				res[index] = i;
-				index++;
-			}
+        int topo[] = new int[n];
+        int ind = 0;
+        // o(v + e)
+        while (!q.isEmpty()) {
+            int node = q.peek();
 
-			return res;
-		}
+            q.remove();
+            topo[ind++] = node;
+            // node is in your topo sort
+            // so please remove it from the indegree
 
-		public boolean isCycleUtil(boolean[] visited, boolean[] curRec, int i) {
+            for (int it : adj.get(node)) {
+                indegree[it]--;
+                if (indegree[it] == 0) q.add(it);
+            }
+        }
 
-			if (visited[i] == false) {
 
-				visited[i] = true;
-				curRec[i] = true;
-
-				List<Integer> neighbours = edges.get(i);
-				for (Integer v : neighbours) {
-
-					if (!visited[v] && isCycleUtil(visited, curRec, v))
-						return true;
-					else if (curRec[v])
-						return true;
-				}
-				l.add(new Integer(i));
-			}
-
-			curRec[i] = false;
-
-			return false;
-		}
-	}
-
-	public int[] findOrder(int numCourses, int[][] prerequisites) {
-
-		DetectCycleGraph graph = new DetectCycleGraph(numCourses);
-		for (int i = 0; i < prerequisites.length; i++) {
-			int[] sub = prerequisites[i];
-			graph.addEdge(sub[0], sub[1]);
-		}
-		return graph.isCycle(graph);
-
-	}
+        if (ind == n) return topo;
+        int[] arr = {};
+        return arr;
+    
+    }
 }
