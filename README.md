@@ -8,11 +8,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DC2415/LeetCode-CODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0234-palindrome-linked-list](https://github.com/DC2415/LeetCode-CODE/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/DC2415/LeetCode-CODE/tree/master/0328-odd-even-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/DC2415/LeetCode-CODE/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 # Two Pointers
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DC2415/LeetCode-CODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0234-palindrome-linked-list](https://github.com/DC2415/LeetCode-CODE/tree/master/0234-palindrome-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/DC2415/LeetCode-CODE/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/DC2415/LeetCode-CODE/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Stack
 |  |
