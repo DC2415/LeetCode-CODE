@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/DC2415/LeetCode-CODE/tree/master/0234-palindrome-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/DC2415/LeetCode-CODE/tree/master/0328-odd-even-linked-list) |
 # Two Pointers
 |  |
 | ------- |
