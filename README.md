@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/DC2415/LeetCode-CODE/tree/master/0234-palindrome-linked-list) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/DC2415/LeetCode-CODE/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Stack
 |  |
 | ------- |
@@ -18,3 +19,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/DC2415/LeetCode-CODE/tree/master/0234-palindrome-linked-list) |
+# String
+|  |
+| ------- |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/DC2415/LeetCode-CODE/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+# Greedy
+|  |
+| ------- |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/DC2415/LeetCode-CODE/tree/master/2572-append-characters-to-string-to-make-subsequence) |
