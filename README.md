@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/DC2415/LeetCode-CODE/tree/master/0409-longest-palindrome) |
+| [0812-rotate-string](https://github.com/DC2415/LeetCode-CODE/tree/master/0812-rotate-string) |
 | [1044-find-common-characters](https://github.com/DC2415/LeetCode-CODE/tree/master/1044-find-common-characters) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/DC2415/LeetCode-CODE/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Greedy
@@ -61,3 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1044-find-common-characters](https://github.com/DC2415/LeetCode-CODE/tree/master/1044-find-common-characters) |
+# String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/DC2415/LeetCode-CODE/tree/master/0812-rotate-string) |
