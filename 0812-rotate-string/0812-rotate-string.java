@@ -1,18 +1,22 @@
 class Solution {
     public boolean rotateString(String s, String goal) {
         
-        StringBuilder ans = new StringBuilder(s);
+        // StringBuilder ans = new StringBuilder(s);
 
-        for(int i=0; i<s.length(); i++){
+        // for(int i=0; i<s.length(); i++){
 
-            char ch = ans.charAt(0);
-            ans.deleteCharAt(0);
+        //     char ch = ans.charAt(0);
+        //     ans.deleteCharAt(0);
 
-            ans.append(ch);
+        //     ans.append(ch);
 
-            if(ans.toString().equals(goal)) return true;
-        }
+        //     if(ans.toString().equals(goal)) return true;
+        // }
 
-        return false;
+        // return false;
+        
+
+        // one line
+        return s.length()==goal.length() && (s+s).contains(goal);
     }
 }
