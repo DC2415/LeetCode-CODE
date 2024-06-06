@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/DC2415/LeetCode-CODE/tree/master/0409-longest-palindrome) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/DC2415/LeetCode-CODE/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/DC2415/LeetCode-CODE/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Hash Table
 |  |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/DC2415/LeetCode-CODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0409-longest-palindrome](https://github.com/DC2415/LeetCode-CODE/tree/master/0409-longest-palindrome) |
 | [1044-find-common-characters](https://github.com/DC2415/LeetCode-CODE/tree/master/1044-find-common-characters) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/DC2415/LeetCode-CODE/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -54,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/DC2415/LeetCode-CODE/tree/master/0148-sort-list) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/DC2415/LeetCode-CODE/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 # Merge Sort
 |  |
 | ------- |
@@ -62,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1044-find-common-characters](https://github.com/DC2415/LeetCode-CODE/tree/master/1044-find-common-characters) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/DC2415/LeetCode-CODE/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 # String Matching
 |  |
 | ------- |
