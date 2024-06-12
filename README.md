@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DC2415/LeetCode-CODE/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0075-sort-colors](https://github.com/DC2415/LeetCode-CODE/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/DC2415/LeetCode-CODE/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DC2415/LeetCode-CODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/DC2415/LeetCode-CODE/tree/master/0234-palindrome-linked-list) |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/DC2415/LeetCode-CODE/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/DC2415/LeetCode-CODE/tree/master/0148-sort-list) |
 | [0876-hand-of-straights](https://github.com/DC2415/LeetCode-CODE/tree/master/0876-hand-of-straights) |
 | [1137-height-checker](https://github.com/DC2415/LeetCode-CODE/tree/master/1137-height-checker) |
@@ -73,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/DC2415/LeetCode-CODE/tree/master/0075-sort-colors) |
 | [0523-continuous-subarray-sum](https://github.com/DC2415/LeetCode-CODE/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/DC2415/LeetCode-CODE/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/DC2415/LeetCode-CODE/tree/master/0876-hand-of-straights) |
