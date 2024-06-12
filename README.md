@@ -5,6 +5,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/DC2415/LeetCode-CODE/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DC2415/LeetCode-CODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0148-sort-list](https://github.com/DC2415/LeetCode-CODE/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DC2415/LeetCode-CODE/tree/master/0160-intersection-of-two-linked-lists) |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/DC2415/LeetCode-CODE/tree/master/0002-add-two-numbers) |
 | [0234-palindrome-linked-list](https://github.com/DC2415/LeetCode-CODE/tree/master/0234-palindrome-linked-list) |
 # String
 |  |
@@ -96,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/DC2415/LeetCode-CODE/tree/master/0002-add-two-numbers) |
 | [0523-continuous-subarray-sum](https://github.com/DC2415/LeetCode-CODE/tree/master/0523-continuous-subarray-sum) |
 # Prefix Sum
 |  |
