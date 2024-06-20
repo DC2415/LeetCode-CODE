@@ -5,13 +5,12 @@ class Solution {
         Arrays.sort(position);
         int low =1;
         int high = position[position.length-1]-position[0];
-       int ans=high;
         while(low<=high){
             int mid=low+(high-low)/2;
             if(canPlace(position,m,mid)){
                 low=mid+1;
             }else{
-                ans=Math.min(ans,high);
+               
                 high=mid-1;
             }
         }
