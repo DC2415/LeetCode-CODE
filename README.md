@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/DC2415/LeetCode-CODE/tree/master/0160-intersection-of-two-linked-lists) |
+| [0347-top-k-frequent-elements](https://github.com/DC2415/LeetCode-CODE/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/DC2415/LeetCode-CODE/tree/master/0409-longest-palindrome) |
 | [0523-continuous-subarray-sum](https://github.com/DC2415/LeetCode-CODE/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/DC2415/LeetCode-CODE/tree/master/0648-replace-words) |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0148-sort-list](https://github.com/DC2415/LeetCode-CODE/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DC2415/LeetCode-CODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/DC2415/LeetCode-CODE/tree/master/0347-top-k-frequent-elements) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/DC2415/LeetCode-CODE/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 # Sorting
 |  |
@@ -81,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/DC2415/LeetCode-CODE/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/DC2415/LeetCode-CODE/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DC2415/LeetCode-CODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/DC2415/LeetCode-CODE/tree/master/0347-top-k-frequent-elements) |
 | [0502-ipo](https://github.com/DC2415/LeetCode-CODE/tree/master/0502-ipo) |
 | [0853-most-profit-assigning-work](https://github.com/DC2415/LeetCode-CODE/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/DC2415/LeetCode-CODE/tree/master/0876-hand-of-straights) |
@@ -102,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/DC2415/LeetCode-CODE/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DC2415/LeetCode-CODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0330-patching-array](https://github.com/DC2415/LeetCode-CODE/tree/master/0330-patching-array) |
+| [0347-top-k-frequent-elements](https://github.com/DC2415/LeetCode-CODE/tree/master/0347-top-k-frequent-elements) |
 | [0502-ipo](https://github.com/DC2415/LeetCode-CODE/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/DC2415/LeetCode-CODE/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/DC2415/LeetCode-CODE/tree/master/0648-replace-words) |
@@ -142,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/DC2415/LeetCode-CODE/tree/master/0347-top-k-frequent-elements) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/DC2415/LeetCode-CODE/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/DC2415/LeetCode-CODE/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/DC2415/LeetCode-CODE/tree/master/1217-relative-sort-array) |
@@ -149,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/DC2415/LeetCode-CODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/DC2415/LeetCode-CODE/tree/master/0347-top-k-frequent-elements) |
 | [0502-ipo](https://github.com/DC2415/LeetCode-CODE/tree/master/0502-ipo) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/DC2415/LeetCode-CODE/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 # Binary Search
@@ -162,4 +168,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/DC2415/LeetCode-CODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/DC2415/LeetCode-CODE/tree/master/0347-top-k-frequent-elements) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/DC2415/LeetCode-CODE/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+# Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/DC2415/LeetCode-CODE/tree/master/0347-top-k-frequent-elements) |
