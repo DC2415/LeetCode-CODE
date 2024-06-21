@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1016-subarray-sums-divisible-by-k](https://github.com/DC2415/LeetCode-CODE/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/DC2415/LeetCode-CODE/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/DC2415/LeetCode-CODE/tree/master/1137-height-checker) |
+| [1138-grumpy-bookstore-owner](https://github.com/DC2415/LeetCode-CODE/tree/master/1138-grumpy-bookstore-owner) |
 | [1217-relative-sort-array](https://github.com/DC2415/LeetCode-CODE/tree/master/1217-relative-sort-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/DC2415/LeetCode-CODE/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/DC2415/LeetCode-CODE/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -174,3 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/DC2415/LeetCode-CODE/tree/master/0347-top-k-frequent-elements) |
+# Sliding Window
+|  |
+| ------- |
+| [1138-grumpy-bookstore-owner](https://github.com/DC2415/LeetCode-CODE/tree/master/1138-grumpy-bookstore-owner) |
