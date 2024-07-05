@@ -281,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/DC2415/LeetCode-CODE/tree/master/0031-next-permutation) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DC2415/LeetCode-CODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/DC2415/LeetCode-CODE/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/DC2415/LeetCode-CODE/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -291,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/DC2415/LeetCode-CODE/tree/master/0031-next-permutation) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DC2415/LeetCode-CODE/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
