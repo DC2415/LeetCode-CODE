@@ -263,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/DC2415/LeetCode-CODE/tree/master/0455-assign-cookies) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/DC2415/LeetCode-CODE/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2379-maximum-total-importance-of-roads](https://github.com/DC2415/LeetCode-CODE/tree/master/2379-maximum-total-importance-of-roads) |
+| [2502-sort-the-people](https://github.com/DC2415/LeetCode-CODE/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/DC2415/LeetCode-CODE/tree/master/2846-robot-collisions) |
 ## Heap (Priority Queue)
 |  |
@@ -304,12 +305,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-crawler-log-folder](https://github.com/DC2415/LeetCode-CODE/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/DC2415/LeetCode-CODE/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/DC2415/LeetCode-CODE/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2502-sort-the-people](https://github.com/DC2415/LeetCode-CODE/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/DC2415/LeetCode-CODE/tree/master/2846-robot-collisions) |
 ## Hash Table
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/DC2415/LeetCode-CODE/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DC2415/LeetCode-CODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2502-sort-the-people](https://github.com/DC2415/LeetCode-CODE/tree/master/2502-sort-the-people) |
 ## Two Pointers
 |  |
 | ------- |
@@ -365,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DC2415/LeetCode-CODE/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/DC2415/LeetCode-CODE/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/DC2415/LeetCode-CODE/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2502-sort-the-people](https://github.com/DC2415/LeetCode-CODE/tree/master/2502-sort-the-people) |
 ## Stack
 |  |
 | ------- |
