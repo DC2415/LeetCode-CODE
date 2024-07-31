@@ -1,6 +1,6 @@
 class Solution {
     public int minHeightShelves(int[][] books, int shelfWidth) {
-    int[][] dp=new int[books.length][shelfWidth+1];
+    int[][] dp=new int[books.length+1][shelfWidth+1];
     for(int[] a: dp){
         Arrays.fill(a,-1);
     }
