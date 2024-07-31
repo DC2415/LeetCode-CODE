@@ -316,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-sort-an-array](https://github.com/DC2415/LeetCode-CODE/tree/master/0948-sort-an-array) |
 | [1036-rotting-oranges](https://github.com/DC2415/LeetCode-CODE/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/DC2415/LeetCode-CODE/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1196-filling-bookcase-shelves](https://github.com/DC2415/LeetCode-CODE/tree/master/1196-filling-bookcase-shelves) |
 | [1293-three-consecutive-odds](https://github.com/DC2415/LeetCode-CODE/tree/master/1293-three-consecutive-odds) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/DC2415/LeetCode-CODE/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/DC2415/LeetCode-CODE/tree/master/1511-count-number-of-teams) |
@@ -369,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0053-maximum-subarray](https://github.com/DC2415/LeetCode-CODE/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DC2415/LeetCode-CODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1196-filling-bookcase-shelves](https://github.com/DC2415/LeetCode-CODE/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/DC2415/LeetCode-CODE/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/DC2415/LeetCode-CODE/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/DC2415/LeetCode-CODE/tree/master/1756-minimum-deletions-to-make-string-balanced) |
