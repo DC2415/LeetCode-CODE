@@ -316,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/DC2415/LeetCode-CODE/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DC2415/LeetCode-CODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/DC2415/LeetCode-CODE/tree/master/0455-assign-cookies) |
+| [0921-spiral-matrix-iii](https://github.com/DC2415/LeetCode-CODE/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/DC2415/LeetCode-CODE/tree/master/0948-sort-an-array) |
 | [0967-minimum-falling-path-sum](https://github.com/DC2415/LeetCode-CODE/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/DC2415/LeetCode-CODE/tree/master/1036-rotting-oranges) |
@@ -364,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0921-spiral-matrix-iii](https://github.com/DC2415/LeetCode-CODE/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/DC2415/LeetCode-CODE/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/DC2415/LeetCode-CODE/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/DC2415/LeetCode-CODE/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -455,6 +457,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/DC2415/LeetCode-CODE/tree/master/0130-surrounded-regions) |
+| [0921-spiral-matrix-iii](https://github.com/DC2415/LeetCode-CODE/tree/master/0921-spiral-matrix-iii) |
 | [0967-minimum-falling-path-sum](https://github.com/DC2415/LeetCode-CODE/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/DC2415/LeetCode-CODE/tree/master/1036-rotting-oranges) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/DC2415/LeetCode-CODE/tree/master/1496-lucky-numbers-in-a-matrix) |
