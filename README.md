@@ -316,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/DC2415/LeetCode-CODE/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DC2415/LeetCode-CODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/DC2415/LeetCode-CODE/tree/master/0455-assign-cookies) |
+| [0870-magic-squares-in-grid](https://github.com/DC2415/LeetCode-CODE/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/DC2415/LeetCode-CODE/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/DC2415/LeetCode-CODE/tree/master/0948-sort-an-array) |
 | [0967-minimum-falling-path-sum](https://github.com/DC2415/LeetCode-CODE/tree/master/0967-minimum-falling-path-sum) |
@@ -340,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0229-majority-element-ii](https://github.com/DC2415/LeetCode-CODE/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DC2415/LeetCode-CODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0870-magic-squares-in-grid](https://github.com/DC2415/LeetCode-CODE/tree/master/0870-magic-squares-in-grid) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/DC2415/LeetCode-CODE/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/DC2415/LeetCode-CODE/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/DC2415/LeetCode-CODE/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -393,6 +395,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/DC2415/LeetCode-CODE/tree/master/0273-integer-to-english-words) |
+| [0870-magic-squares-in-grid](https://github.com/DC2415/LeetCode-CODE/tree/master/0870-magic-squares-in-grid) |
 | [1642-water-bottles](https://github.com/DC2415/LeetCode-CODE/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/DC2415/LeetCode-CODE/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/DC2415/LeetCode-CODE/tree/master/2645-pass-the-pillow) |
@@ -457,6 +460,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/DC2415/LeetCode-CODE/tree/master/0130-surrounded-regions) |
+| [0870-magic-squares-in-grid](https://github.com/DC2415/LeetCode-CODE/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/DC2415/LeetCode-CODE/tree/master/0921-spiral-matrix-iii) |
 | [0967-minimum-falling-path-sum](https://github.com/DC2415/LeetCode-CODE/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/DC2415/LeetCode-CODE/tree/master/1036-rotting-oranges) |
