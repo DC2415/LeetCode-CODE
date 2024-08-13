@@ -245,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0135-candy](https://github.com/DC2415/LeetCode-CODE/tree/master/0135-candy) |
+| [0410-split-array-largest-sum](https://github.com/DC2415/LeetCode-CODE/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/DC2415/LeetCode-CODE/tree/master/0455-assign-cookies) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/DC2415/LeetCode-CODE/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/DC2415/LeetCode-CODE/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -325,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0216-combination-sum-iii](https://github.com/DC2415/LeetCode-CODE/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/DC2415/LeetCode-CODE/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DC2415/LeetCode-CODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/DC2415/LeetCode-CODE/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/DC2415/LeetCode-CODE/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/DC2415/LeetCode-CODE/tree/master/0496-next-greater-element-i) |
 | [0870-magic-squares-in-grid](https://github.com/DC2415/LeetCode-CODE/tree/master/0870-magic-squares-in-grid) |
@@ -373,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DC2415/LeetCode-CODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DC2415/LeetCode-CODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/DC2415/LeetCode-CODE/tree/master/0410-split-array-largest-sum) |
 ## Linked List
 |  |
 | ------- |
@@ -400,6 +403,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/DC2415/LeetCode-CODE/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/DC2415/LeetCode-CODE/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DC2415/LeetCode-CODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0410-split-array-largest-sum](https://github.com/DC2415/LeetCode-CODE/tree/master/0410-split-array-largest-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/DC2415/LeetCode-CODE/tree/master/0967-minimum-falling-path-sum) |
 | [1196-filling-bookcase-shelves](https://github.com/DC2415/LeetCode-CODE/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/DC2415/LeetCode-CODE/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -536,4 +540,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0040-combination-sum-ii](https://github.com/DC2415/LeetCode-CODE/tree/master/0040-combination-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/DC2415/LeetCode-CODE/tree/master/0216-combination-sum-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/DC2415/LeetCode-CODE/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
