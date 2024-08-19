@@ -414,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/DC2415/LeetCode-CODE/tree/master/0264-ugly-number-ii) |
 | [0377-combination-sum-iv](https://github.com/DC2415/LeetCode-CODE/tree/master/0377-combination-sum-iv) |
 | [0410-split-array-largest-sum](https://github.com/DC2415/LeetCode-CODE/tree/master/0410-split-array-largest-sum) |
+| [0650-2-keys-keyboard](https://github.com/DC2415/LeetCode-CODE/tree/master/0650-2-keys-keyboard) |
 | [0967-minimum-falling-path-sum](https://github.com/DC2415/LeetCode-CODE/tree/master/0967-minimum-falling-path-sum) |
 | [1196-filling-bookcase-shelves](https://github.com/DC2415/LeetCode-CODE/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/DC2415/LeetCode-CODE/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -425,6 +426,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0264-ugly-number-ii](https://github.com/DC2415/LeetCode-CODE/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/DC2415/LeetCode-CODE/tree/master/0273-integer-to-english-words) |
+| [0650-2-keys-keyboard](https://github.com/DC2415/LeetCode-CODE/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/DC2415/LeetCode-CODE/tree/master/0870-magic-squares-in-grid) |
 | [1642-water-bottles](https://github.com/DC2415/LeetCode-CODE/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/DC2415/LeetCode-CODE/tree/master/1951-find-the-winner-of-the-circular-game) |
