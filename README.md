@@ -575,4 +575,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/DC2415/LeetCode-CODE/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/DC2415/LeetCode-CODE/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/DC2415/LeetCode-CODE/tree/master/1908-recyclable-and-low-fat-products) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/DC2415/LeetCode-CODE/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
