@@ -451,6 +451,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DC2415/LeetCode-CODE/tree/master/0005-longest-palindromic-substring) |
+| [0008-string-to-integer-atoi](https://github.com/DC2415/LeetCode-CODE/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DC2415/LeetCode-CODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/DC2415/LeetCode-CODE/tree/master/0022-generate-parentheses) |
 | [0273-integer-to-english-words](https://github.com/DC2415/LeetCode-CODE/tree/master/0273-integer-to-english-words) |
