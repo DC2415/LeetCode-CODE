@@ -286,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/DC2415/LeetCode-CODE/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/DC2415/LeetCode-CODE/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DC2415/LeetCode-CODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/DC2415/LeetCode-CODE/tree/master/0110-balanced-binary-tree) |
 | [0130-surrounded-regions](https://github.com/DC2415/LeetCode-CODE/tree/master/0130-surrounded-regions) |
@@ -299,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/DC2415/LeetCode-CODE/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DC2415/LeetCode-CODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/DC2415/LeetCode-CODE/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/DC2415/LeetCode-CODE/tree/master/0200-number-of-islands) |
@@ -488,6 +490,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/DC2415/LeetCode-CODE/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/DC2415/LeetCode-CODE/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DC2415/LeetCode-CODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/DC2415/LeetCode-CODE/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DC2415/LeetCode-CODE/tree/master/0144-binary-tree-preorder-traversal) |
@@ -502,6 +505,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/DC2415/LeetCode-CODE/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/DC2415/LeetCode-CODE/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DC2415/LeetCode-CODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/DC2415/LeetCode-CODE/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DC2415/LeetCode-CODE/tree/master/0144-binary-tree-preorder-traversal) |
