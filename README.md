@@ -372,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1951-find-the-winner-of-the-circular-game](https://github.com/DC2415/LeetCode-CODE/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2035-count-sub-islands](https://github.com/DC2415/LeetCode-CODE/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/DC2415/LeetCode-CODE/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/DC2415/LeetCode-CODE/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/DC2415/LeetCode-CODE/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/DC2415/LeetCode-CODE/tree/master/2502-sort-the-people) |
 | [2706-minimum-score-by-changing-two-elements](https://github.com/DC2415/LeetCode-CODE/tree/master/2706-minimum-score-by-changing-two-elements) |
@@ -419,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1642-water-bottles](https://github.com/DC2415/LeetCode-CODE/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/DC2415/LeetCode-CODE/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/DC2415/LeetCode-CODE/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/DC2415/LeetCode-CODE/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/DC2415/LeetCode-CODE/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/DC2415/LeetCode-CODE/tree/master/2645-pass-the-pillow) |
 | [2846-robot-collisions](https://github.com/DC2415/LeetCode-CODE/tree/master/2846-robot-collisions) |
@@ -546,6 +548,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1036-rotting-oranges](https://github.com/DC2415/LeetCode-CODE/tree/master/1036-rotting-oranges) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/DC2415/LeetCode-CODE/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2035-count-sub-islands](https://github.com/DC2415/LeetCode-CODE/tree/master/2035-count-sub-islands) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/DC2415/LeetCode-CODE/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Binary Search Tree
 |  |
 | ------- |
