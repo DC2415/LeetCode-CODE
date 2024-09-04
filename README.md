@@ -461,6 +461,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0870-magic-squares-in-grid](https://github.com/DC2415/LeetCode-CODE/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/DC2415/LeetCode-CODE/tree/master/1240-stone-game-ii) |
 | [1642-water-bottles](https://github.com/DC2415/LeetCode-CODE/tree/master/1642-water-bottles) |
+| [1674-minimum-operations-to-make-array-equal](https://github.com/DC2415/LeetCode-CODE/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/DC2415/LeetCode-CODE/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/DC2415/LeetCode-CODE/tree/master/2645-pass-the-pillow) |
 ## Recursion
