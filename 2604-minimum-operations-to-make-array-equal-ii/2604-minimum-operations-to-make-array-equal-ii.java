@@ -9,13 +9,13 @@ class Solution {
             return 0;
         }
         
-        long positiveDiff = 0;  // Total increments needed
-        long negativeDiff = 0;  // Total decrements needed
+        long positiveDiff = 0;  
+        long negativeDiff = 0;  
         
         for (int i = 0; i < nums1.length; i++) {
             int diff = nums1[i] - nums2[i];
             if (diff % k != 0) {
-                return -1;  // If diff is not divisible by k, it's impossible to equalize them
+                return -1;  
             }
             if (diff > 0) {
                 negativeDiff += diff / k;
