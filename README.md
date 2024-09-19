@@ -461,6 +461,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/DC2415/LeetCode-CODE/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/DC2415/LeetCode-CODE/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DC2415/LeetCode-CODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0241-different-ways-to-add-parentheses](https://github.com/DC2415/LeetCode-CODE/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/DC2415/LeetCode-CODE/tree/master/0264-ugly-number-ii) |
 | [0377-combination-sum-iv](https://github.com/DC2415/LeetCode-CODE/tree/master/0377-combination-sum-iv) |
 | [0410-split-array-largest-sum](https://github.com/DC2415/LeetCode-CODE/tree/master/0410-split-array-largest-sum) |
@@ -475,6 +476,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/DC2415/LeetCode-CODE/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/DC2415/LeetCode-CODE/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/DC2415/LeetCode-CODE/tree/master/0273-integer-to-english-words) |
 | [0650-2-keys-keyboard](https://github.com/DC2415/LeetCode-CODE/tree/master/0650-2-keys-keyboard) |
@@ -489,6 +491,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/DC2415/LeetCode-CODE/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/DC2415/LeetCode-CODE/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/DC2415/LeetCode-CODE/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
@@ -503,6 +506,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DC2415/LeetCode-CODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/DC2415/LeetCode-CODE/tree/master/0022-generate-parentheses) |
 | [0179-largest-number](https://github.com/DC2415/LeetCode-CODE/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/DC2415/LeetCode-CODE/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/DC2415/LeetCode-CODE/tree/master/0273-integer-to-english-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/DC2415/LeetCode-CODE/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DC2415/LeetCode-CODE/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -672,4 +676,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/DC2415/LeetCode-CODE/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/DC2415/LeetCode-CODE/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
