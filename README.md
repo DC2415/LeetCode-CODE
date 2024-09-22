@@ -344,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/DC2415/LeetCode-CODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/DC2415/LeetCode-CODE/tree/master/0031-next-permutation) |
 | [0040-combination-sum-ii](https://github.com/DC2415/LeetCode-CODE/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/DC2415/LeetCode-CODE/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/DC2415/LeetCode-CODE/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/DC2415/LeetCode-CODE/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/DC2415/LeetCode-CODE/tree/master/0057-insert-interval) |
@@ -642,6 +643,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DC2415/LeetCode-CODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/DC2415/LeetCode-CODE/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/DC2415/LeetCode-CODE/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/DC2415/LeetCode-CODE/tree/master/0046-permutations) |
 | [0216-combination-sum-iii](https://github.com/DC2415/LeetCode-CODE/tree/master/0216-combination-sum-iii) |
 ## Prefix Sum
 |  |
