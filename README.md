@@ -484,6 +484,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/DC2415/LeetCode-CODE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/DC2415/LeetCode-CODE/tree/master/0009-palindrome-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/DC2415/LeetCode-CODE/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/DC2415/LeetCode-CODE/tree/master/0264-ugly-number-ii) |
