@@ -657,6 +657,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/DC2415/LeetCode-CODE/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/DC2415/LeetCode-CODE/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/DC2415/LeetCode-CODE/tree/master/0046-permutations) |
+| [0077-combinations](https://github.com/DC2415/LeetCode-CODE/tree/master/0077-combinations) |
 | [0216-combination-sum-iii](https://github.com/DC2415/LeetCode-CODE/tree/master/0216-combination-sum-iii) |
 ## Prefix Sum
 |  |
