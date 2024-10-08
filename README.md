@@ -253,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0890-lemonade-change](https://github.com/DC2415/LeetCode-CODE/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/DC2415/LeetCode-CODE/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/DC2415/LeetCode-CODE/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/DC2415/LeetCode-CODE/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2379-maximum-total-importance-of-roads](https://github.com/DC2415/LeetCode-CODE/tree/master/2379-maximum-total-importance-of-roads) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/DC2415/LeetCode-CODE/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2706-minimum-score-by-changing-two-elements](https://github.com/DC2415/LeetCode-CODE/tree/master/2706-minimum-score-by-changing-two-elements) |
@@ -439,6 +440,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/DC2415/LeetCode-CODE/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/DC2415/LeetCode-CODE/tree/master/0567-permutation-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/DC2415/LeetCode-CODE/tree/master/1923-sentence-similarity-iii) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/DC2415/LeetCode-CODE/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/DC2415/LeetCode-CODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
 |  |
@@ -543,6 +545,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1818-maximum-score-from-removing-substrings](https://github.com/DC2415/LeetCode-CODE/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1923-sentence-similarity-iii](https://github.com/DC2415/LeetCode-CODE/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/DC2415/LeetCode-CODE/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/DC2415/LeetCode-CODE/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/DC2415/LeetCode-CODE/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/DC2415/LeetCode-CODE/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/DC2415/LeetCode-CODE/tree/master/2727-number-of-senior-citizens) |
@@ -562,6 +565,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-crawler-log-folder](https://github.com/DC2415/LeetCode-CODE/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/DC2415/LeetCode-CODE/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/DC2415/LeetCode-CODE/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/DC2415/LeetCode-CODE/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/DC2415/LeetCode-CODE/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/DC2415/LeetCode-CODE/tree/master/2846-robot-collisions) |
 ## Counting
