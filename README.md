@@ -256,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1818-maximum-score-from-removing-substrings](https://github.com/DC2415/LeetCode-CODE/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/DC2415/LeetCode-CODE/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2379-maximum-total-importance-of-roads](https://github.com/DC2415/LeetCode-CODE/tree/master/2379-maximum-total-importance-of-roads) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/DC2415/LeetCode-CODE/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/DC2415/LeetCode-CODE/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2706-minimum-score-by-changing-two-elements](https://github.com/DC2415/LeetCode-CODE/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [2725-mice-and-cheese](https://github.com/DC2415/LeetCode-CODE/tree/master/2725-mice-and-cheese) |
@@ -282,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/DC2415/LeetCode-CODE/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/DC2415/LeetCode-CODE/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2379-maximum-total-importance-of-roads](https://github.com/DC2415/LeetCode-CODE/tree/master/2379-maximum-total-importance-of-roads) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/DC2415/LeetCode-CODE/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/DC2415/LeetCode-CODE/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/DC2415/LeetCode-CODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2706-minimum-score-by-changing-two-elements](https://github.com/DC2415/LeetCode-CODE/tree/master/2706-minimum-score-by-changing-two-elements) |
@@ -295,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0789-kth-largest-element-in-a-stream](https://github.com/DC2415/LeetCode-CODE/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/DC2415/LeetCode-CODE/tree/master/0948-sort-an-array) |
 | [2379-maximum-total-importance-of-roads](https://github.com/DC2415/LeetCode-CODE/tree/master/2379-maximum-total-importance-of-roads) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/DC2415/LeetCode-CODE/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2725-mice-and-cheese](https://github.com/DC2415/LeetCode-CODE/tree/master/2725-mice-and-cheese) |
 ## Depth-First Search
 |  |
@@ -399,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2067-maximum-number-of-points-with-cost](https://github.com/DC2415/LeetCode-CODE/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/DC2415/LeetCode-CODE/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/DC2415/LeetCode-CODE/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/DC2415/LeetCode-CODE/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/DC2415/LeetCode-CODE/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/DC2415/LeetCode-CODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/DC2415/LeetCode-CODE/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
@@ -443,6 +447,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/DC2415/LeetCode-CODE/tree/master/0567-permutation-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/DC2415/LeetCode-CODE/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/DC2415/LeetCode-CODE/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/DC2415/LeetCode-CODE/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/DC2415/LeetCode-CODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
 |  |
@@ -695,6 +700,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1435-xor-queries-of-a-subarray](https://github.com/DC2415/LeetCode-CODE/tree/master/1435-xor-queries-of-a-subarray) |
 | [1694-make-sum-divisible-by-p](https://github.com/DC2415/LeetCode-CODE/tree/master/1694-make-sum-divisible-by-p) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/DC2415/LeetCode-CODE/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/DC2415/LeetCode-CODE/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Game Theory
 |  |
 | ------- |
