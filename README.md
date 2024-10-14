@@ -259,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2379-maximum-total-importance-of-roads](https://github.com/DC2415/LeetCode-CODE/tree/master/2379-maximum-total-importance-of-roads) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/DC2415/LeetCode-CODE/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/DC2415/LeetCode-CODE/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/DC2415/LeetCode-CODE/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2706-minimum-score-by-changing-two-elements](https://github.com/DC2415/LeetCode-CODE/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [2725-mice-and-cheese](https://github.com/DC2415/LeetCode-CODE/tree/master/2725-mice-and-cheese) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/DC2415/LeetCode-CODE/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -301,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-sort-an-array](https://github.com/DC2415/LeetCode-CODE/tree/master/0948-sort-an-array) |
 | [2379-maximum-total-importance-of-roads](https://github.com/DC2415/LeetCode-CODE/tree/master/2379-maximum-total-importance-of-roads) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/DC2415/LeetCode-CODE/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/DC2415/LeetCode-CODE/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2725-mice-and-cheese](https://github.com/DC2415/LeetCode-CODE/tree/master/2725-mice-and-cheese) |
 ## Depth-First Search
 |  |
@@ -410,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2502-sort-the-people](https://github.com/DC2415/LeetCode-CODE/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/DC2415/LeetCode-CODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/DC2415/LeetCode-CODE/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/DC2415/LeetCode-CODE/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2706-minimum-score-by-changing-two-elements](https://github.com/DC2415/LeetCode-CODE/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [2725-mice-and-cheese](https://github.com/DC2415/LeetCode-CODE/tree/master/2725-mice-and-cheese) |
 | [2727-number-of-senior-citizens](https://github.com/DC2415/LeetCode-CODE/tree/master/2727-number-of-senior-citizens) |
