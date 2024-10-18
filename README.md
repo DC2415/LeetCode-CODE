@@ -412,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2067-maximum-number-of-points-with-cost](https://github.com/DC2415/LeetCode-CODE/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/DC2415/LeetCode-CODE/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/DC2415/LeetCode-CODE/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/DC2415/LeetCode-CODE/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/DC2415/LeetCode-CODE/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/DC2415/LeetCode-CODE/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/DC2415/LeetCode-CODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -708,6 +709,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/DC2415/LeetCode-CODE/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/DC2415/LeetCode-CODE/tree/master/0077-combinations) |
 | [0216-combination-sum-iii](https://github.com/DC2415/LeetCode-CODE/tree/master/0216-combination-sum-iii) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/DC2415/LeetCode-CODE/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -740,6 +742,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0476-number-complement](https://github.com/DC2415/LeetCode-CODE/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/DC2415/LeetCode-CODE/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/DC2415/LeetCode-CODE/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/DC2415/LeetCode-CODE/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/DC2415/LeetCode-CODE/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Number Theory
 |  |
@@ -758,4 +761,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0567-permutation-in-string](https://github.com/DC2415/LeetCode-CODE/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/DC2415/LeetCode-CODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/DC2415/LeetCode-CODE/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
