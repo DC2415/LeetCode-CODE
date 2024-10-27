@@ -400,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1256-rank-transform-of-an-array](https://github.com/DC2415/LeetCode-CODE/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/DC2415/LeetCode-CODE/tree/master/1293-three-consecutive-odds) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/DC2415/LeetCode-CODE/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/DC2415/LeetCode-CODE/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/DC2415/LeetCode-CODE/tree/master/1435-xor-queries-of-a-subarray) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/DC2415/LeetCode-CODE/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/DC2415/LeetCode-CODE/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -523,6 +524,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0967-minimum-falling-path-sum](https://github.com/DC2415/LeetCode-CODE/tree/master/0967-minimum-falling-path-sum) |
 | [1196-filling-bookcase-shelves](https://github.com/DC2415/LeetCode-CODE/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/DC2415/LeetCode-CODE/tree/master/1240-stone-game-ii) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/DC2415/LeetCode-CODE/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/DC2415/LeetCode-CODE/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/DC2415/LeetCode-CODE/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/DC2415/LeetCode-CODE/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -664,6 +666,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0967-minimum-falling-path-sum](https://github.com/DC2415/LeetCode-CODE/tree/master/0967-minimum-falling-path-sum) |
 | [0999-regions-cut-by-slashes](https://github.com/DC2415/LeetCode-CODE/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/DC2415/LeetCode-CODE/tree/master/1036-rotting-oranges) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/DC2415/LeetCode-CODE/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/DC2415/LeetCode-CODE/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2035-count-sub-islands](https://github.com/DC2415/LeetCode-CODE/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/DC2415/LeetCode-CODE/tree/master/2132-convert-1d-array-into-2d-array) |
