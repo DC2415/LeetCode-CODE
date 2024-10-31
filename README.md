@@ -373,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/DC2415/LeetCode-CODE/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/DC2415/LeetCode-CODE/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/DC2415/LeetCode-CODE/tree/master/0057-insert-interval) |
+| [0118-pascals-triangle](https://github.com/DC2415/LeetCode-CODE/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DC2415/LeetCode-CODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/DC2415/LeetCode-CODE/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/DC2415/LeetCode-CODE/tree/master/0135-candy) |
@@ -522,6 +523,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/DC2415/LeetCode-CODE/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/DC2415/LeetCode-CODE/tree/master/0055-jump-game) |
 | [0091-decode-ways](https://github.com/DC2415/LeetCode-CODE/tree/master/0091-decode-ways) |
+| [0118-pascals-triangle](https://github.com/DC2415/LeetCode-CODE/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DC2415/LeetCode-CODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/DC2415/LeetCode-CODE/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/DC2415/LeetCode-CODE/tree/master/0241-different-ways-to-add-parentheses) |
