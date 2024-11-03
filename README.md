@@ -583,6 +583,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0273-integer-to-english-words](https://github.com/DC2415/LeetCode-CODE/tree/master/0273-integer-to-english-words) |
 | [0567-permutation-in-string](https://github.com/DC2415/LeetCode-CODE/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/DC2415/LeetCode-CODE/tree/master/0678-valid-parenthesis-string) |
+| [0812-rotate-string](https://github.com/DC2415/LeetCode-CODE/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/DC2415/LeetCode-CODE/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/DC2415/LeetCode-CODE/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DC2415/LeetCode-CODE/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -798,4 +799,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/DC2415/LeetCode-CODE/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/DC2415/LeetCode-CODE/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
