@@ -787,6 +787,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/DC2415/LeetCode-CODE/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/DC2415/LeetCode-CODE/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/DC2415/LeetCode-CODE/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [3394-minimum-array-end](https://github.com/DC2415/LeetCode-CODE/tree/master/3394-minimum-array-end) |
 ## Number Theory
 |  |
 | ------- |
