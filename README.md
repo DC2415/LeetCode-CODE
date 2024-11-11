@@ -265,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/DC2415/LeetCode-CODE/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/DC2415/LeetCode-CODE/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2706-minimum-score-by-changing-two-elements](https://github.com/DC2415/LeetCode-CODE/tree/master/2706-minimum-score-by-changing-two-elements) |
+| [2716-prime-subtraction-operation](https://github.com/DC2415/LeetCode-CODE/tree/master/2716-prime-subtraction-operation) |
 | [2725-mice-and-cheese](https://github.com/DC2415/LeetCode-CODE/tree/master/2725-mice-and-cheese) |
 | [3195-separate-black-and-white-balls](https://github.com/DC2415/LeetCode-CODE/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/DC2415/LeetCode-CODE/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -435,6 +436,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/DC2415/LeetCode-CODE/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/DC2415/LeetCode-CODE/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2706-minimum-score-by-changing-two-elements](https://github.com/DC2415/LeetCode-CODE/tree/master/2706-minimum-score-by-changing-two-elements) |
+| [2716-prime-subtraction-operation](https://github.com/DC2415/LeetCode-CODE/tree/master/2716-prime-subtraction-operation) |
 | [2725-mice-and-cheese](https://github.com/DC2415/LeetCode-CODE/tree/master/2725-mice-and-cheese) |
 | [2727-number-of-senior-citizens](https://github.com/DC2415/LeetCode-CODE/tree/master/2727-number-of-senior-citizens) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/DC2415/LeetCode-CODE/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -493,6 +495,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/DC2415/LeetCode-CODE/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/DC2415/LeetCode-CODE/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2586-longest-square-streak-in-an-array](https://github.com/DC2415/LeetCode-CODE/tree/master/2586-longest-square-streak-in-an-array) |
+| [2716-prime-subtraction-operation](https://github.com/DC2415/LeetCode-CODE/tree/master/2716-prime-subtraction-operation) |
 ## Linked List
 |  |
 | ------- |
@@ -565,6 +568,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1951-find-the-winner-of-the-circular-game](https://github.com/DC2415/LeetCode-CODE/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/DC2415/LeetCode-CODE/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2645-pass-the-pillow](https://github.com/DC2415/LeetCode-CODE/tree/master/2645-pass-the-pillow) |
+| [2716-prime-subtraction-operation](https://github.com/DC2415/LeetCode-CODE/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/DC2415/LeetCode-CODE/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
 |  |
@@ -794,6 +798,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 |  |
 | ------- |
+| [2716-prime-subtraction-operation](https://github.com/DC2415/LeetCode-CODE/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/DC2415/LeetCode-CODE/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Memoization
 |  |
