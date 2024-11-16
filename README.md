@@ -448,6 +448,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/DC2415/LeetCode-CODE/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2846-robot-collisions](https://github.com/DC2415/LeetCode-CODE/tree/master/2846-robot-collisions) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/DC2415/LeetCode-CODE/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/DC2415/LeetCode-CODE/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3541-report-spam-message](https://github.com/DC2415/LeetCode-CODE/tree/master/3541-report-spam-message) |
 ## Hash Table
 |  |
@@ -827,6 +828,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0567-permutation-in-string](https://github.com/DC2415/LeetCode-CODE/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/DC2415/LeetCode-CODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/DC2415/LeetCode-CODE/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Enumeration
 |  |
 | ------- |
