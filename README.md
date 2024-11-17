@@ -309,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/DC2415/LeetCode-CODE/tree/master/0264-ugly-number-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/DC2415/LeetCode-CODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/DC2415/LeetCode-CODE/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/DC2415/LeetCode-CODE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0948-sort-an-array](https://github.com/DC2415/LeetCode-CODE/tree/master/0948-sort-an-array) |
 | [1304-longest-happy-string](https://github.com/DC2415/LeetCode-CODE/tree/master/1304-longest-happy-string) |
 | [2379-maximum-total-importance-of-roads](https://github.com/DC2415/LeetCode-CODE/tree/master/2379-maximum-total-importance-of-roads) |
@@ -396,6 +397,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/DC2415/LeetCode-CODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0870-magic-squares-in-grid](https://github.com/DC2415/LeetCode-CODE/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/DC2415/LeetCode-CODE/tree/master/0890-lemonade-change) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/DC2415/LeetCode-CODE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0921-spiral-matrix-iii](https://github.com/DC2415/LeetCode-CODE/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/DC2415/LeetCode-CODE/tree/master/0948-sort-an-array) |
 | [0967-minimum-falling-path-sum](https://github.com/DC2415/LeetCode-CODE/tree/master/0967-minimum-falling-path-sum) |
@@ -501,6 +503,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/DC2415/LeetCode-CODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DC2415/LeetCode-CODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/DC2415/LeetCode-CODE/tree/master/0410-split-array-largest-sum) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/DC2415/LeetCode-CODE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/DC2415/LeetCode-CODE/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/DC2415/LeetCode-CODE/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/DC2415/LeetCode-CODE/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -592,6 +595,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 |  |
 | ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/DC2415/LeetCode-CODE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/DC2415/LeetCode-CODE/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## String
 |  |
@@ -776,6 +780,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/DC2415/LeetCode-CODE/tree/master/0410-split-array-largest-sum) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/DC2415/LeetCode-CODE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1240-stone-game-ii](https://github.com/DC2415/LeetCode-CODE/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/DC2415/LeetCode-CODE/tree/master/1435-xor-queries-of-a-subarray) |
 | [1694-make-sum-divisible-by-p](https://github.com/DC2415/LeetCode-CODE/tree/master/1694-make-sum-divisible-by-p) |
@@ -828,6 +833,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0567-permutation-in-string](https://github.com/DC2415/LeetCode-CODE/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/DC2415/LeetCode-CODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/DC2415/LeetCode-CODE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/DC2415/LeetCode-CODE/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Enumeration
 |  |
@@ -837,4 +843,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/DC2415/LeetCode-CODE/tree/master/0812-rotate-string) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/DC2415/LeetCode-CODE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
