@@ -422,6 +422,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1694-make-sum-divisible-by-p](https://github.com/DC2415/LeetCode-CODE/tree/master/1694-make-sum-divisible-by-p) |
 | [1720-crawler-log-folder](https://github.com/DC2415/LeetCode-CODE/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/DC2415/LeetCode-CODE/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1755-defuse-the-bomb](https://github.com/DC2415/LeetCode-CODE/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/DC2415/LeetCode-CODE/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/DC2415/LeetCode-CODE/tree/master/1803-average-waiting-time) |
 | [1923-sentence-similarity-iii](https://github.com/DC2415/LeetCode-CODE/tree/master/1923-sentence-similarity-iii) |
@@ -834,6 +835,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/DC2415/LeetCode-CODE/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/DC2415/LeetCode-CODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/DC2415/LeetCode-CODE/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1755-defuse-the-bomb](https://github.com/DC2415/LeetCode-CODE/tree/master/1755-defuse-the-bomb) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/DC2415/LeetCode-CODE/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Enumeration
 |  |
