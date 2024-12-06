@@ -265,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/DC2415/LeetCode-CODE/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/DC2415/LeetCode-CODE/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/DC2415/LeetCode-CODE/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/DC2415/LeetCode-CODE/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2706-minimum-score-by-changing-two-elements](https://github.com/DC2415/LeetCode-CODE/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [2716-prime-subtraction-operation](https://github.com/DC2415/LeetCode-CODE/tree/master/2716-prime-subtraction-operation) |
 | [2725-mice-and-cheese](https://github.com/DC2415/LeetCode-CODE/tree/master/2725-mice-and-cheese) |
@@ -301,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2502-sort-the-people](https://github.com/DC2415/LeetCode-CODE/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/DC2415/LeetCode-CODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/DC2415/LeetCode-CODE/tree/master/2586-longest-square-streak-in-an-array) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/DC2415/LeetCode-CODE/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/DC2415/LeetCode-CODE/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/DC2415/LeetCode-CODE/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2706-minimum-score-by-changing-two-elements](https://github.com/DC2415/LeetCode-CODE/tree/master/2706-minimum-score-by-changing-two-elements) |
@@ -455,6 +457,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2586-longest-square-streak-in-an-array](https://github.com/DC2415/LeetCode-CODE/tree/master/2586-longest-square-streak-in-an-array) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/DC2415/LeetCode-CODE/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/DC2415/LeetCode-CODE/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/DC2415/LeetCode-CODE/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/DC2415/LeetCode-CODE/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2706-minimum-score-by-changing-two-elements](https://github.com/DC2415/LeetCode-CODE/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [2716-prime-subtraction-operation](https://github.com/DC2415/LeetCode-CODE/tree/master/2716-prime-subtraction-operation) |
@@ -495,6 +498,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/DC2415/LeetCode-CODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/DC2415/LeetCode-CODE/tree/master/2586-longest-square-streak-in-an-array) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/DC2415/LeetCode-CODE/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/DC2415/LeetCode-CODE/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/DC2415/LeetCode-CODE/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/DC2415/LeetCode-CODE/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/DC2415/LeetCode-CODE/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -535,6 +539,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2179-most-beautiful-item-for-each-query](https://github.com/DC2415/LeetCode-CODE/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/DC2415/LeetCode-CODE/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2586-longest-square-streak-in-an-array](https://github.com/DC2415/LeetCode-CODE/tree/master/2586-longest-square-streak-in-an-array) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/DC2415/LeetCode-CODE/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/DC2415/LeetCode-CODE/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/DC2415/LeetCode-CODE/tree/master/2716-prime-subtraction-operation) |
 ## Linked List
