@@ -393,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DC2415/LeetCode-CODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/DC2415/LeetCode-CODE/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/DC2415/LeetCode-CODE/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/DC2415/LeetCode-CODE/tree/master/0031-next-permutation) |
 | [0040-combination-sum-ii](https://github.com/DC2415/LeetCode-CODE/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/DC2415/LeetCode-CODE/tree/master/0046-permutations) |
@@ -535,6 +536,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DC2415/LeetCode-CODE/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/DC2415/LeetCode-CODE/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/DC2415/LeetCode-CODE/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/DC2415/LeetCode-CODE/tree/master/0031-next-permutation) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DC2415/LeetCode-CODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/DC2415/LeetCode-CODE/tree/master/0455-assign-cookies) |
