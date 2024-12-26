@@ -416,6 +416,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0377-combination-sum-iv](https://github.com/DC2415/LeetCode-CODE/tree/master/0377-combination-sum-iv) |
 | [0410-split-array-largest-sum](https://github.com/DC2415/LeetCode-CODE/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/DC2415/LeetCode-CODE/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/DC2415/LeetCode-CODE/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/DC2415/LeetCode-CODE/tree/master/0496-next-greater-element-i) |
 | [0624-maximum-distance-in-arrays](https://github.com/DC2415/LeetCode-CODE/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/DC2415/LeetCode-CODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -625,6 +626,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/DC2415/LeetCode-CODE/tree/master/0264-ugly-number-ii) |
 | [0377-combination-sum-iv](https://github.com/DC2415/LeetCode-CODE/tree/master/0377-combination-sum-iv) |
 | [0410-split-array-largest-sum](https://github.com/DC2415/LeetCode-CODE/tree/master/0410-split-array-largest-sum) |
+| [0494-target-sum](https://github.com/DC2415/LeetCode-CODE/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/DC2415/LeetCode-CODE/tree/master/0650-2-keys-keyboard) |
 | [0678-valid-parenthesis-string](https://github.com/DC2415/LeetCode-CODE/tree/master/0678-valid-parenthesis-string) |
 | [0967-minimum-falling-path-sum](https://github.com/DC2415/LeetCode-CODE/tree/master/0967-minimum-falling-path-sum) |
@@ -872,6 +874,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/DC2415/LeetCode-CODE/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/DC2415/LeetCode-CODE/tree/master/0077-combinations) |
 | [0216-combination-sum-iii](https://github.com/DC2415/LeetCode-CODE/tree/master/0216-combination-sum-iii) |
+| [0494-target-sum](https://github.com/DC2415/LeetCode-CODE/tree/master/0494-target-sum) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/DC2415/LeetCode-CODE/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Prefix Sum
 |  |
