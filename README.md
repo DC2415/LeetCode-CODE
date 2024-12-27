@@ -431,6 +431,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1036-rotting-oranges](https://github.com/DC2415/LeetCode-CODE/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/DC2415/LeetCode-CODE/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/DC2415/LeetCode-CODE/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1063-best-sightseeing-pair](https://github.com/DC2415/LeetCode-CODE/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/DC2415/LeetCode-CODE/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1196-filling-bookcase-shelves](https://github.com/DC2415/LeetCode-CODE/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/DC2415/LeetCode-CODE/tree/master/1240-stone-game-ii) |
@@ -630,6 +631,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0650-2-keys-keyboard](https://github.com/DC2415/LeetCode-CODE/tree/master/0650-2-keys-keyboard) |
 | [0678-valid-parenthesis-string](https://github.com/DC2415/LeetCode-CODE/tree/master/0678-valid-parenthesis-string) |
 | [0967-minimum-falling-path-sum](https://github.com/DC2415/LeetCode-CODE/tree/master/0967-minimum-falling-path-sum) |
+| [1063-best-sightseeing-pair](https://github.com/DC2415/LeetCode-CODE/tree/master/1063-best-sightseeing-pair) |
 | [1196-filling-bookcase-shelves](https://github.com/DC2415/LeetCode-CODE/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/DC2415/LeetCode-CODE/tree/master/1240-stone-game-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/DC2415/LeetCode-CODE/tree/master/1402-count-square-submatrices-with-all-ones) |
