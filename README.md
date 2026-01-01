@@ -406,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/DC2415/LeetCode-CODE/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/DC2415/LeetCode-CODE/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/DC2415/LeetCode-CODE/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/DC2415/LeetCode-CODE/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/DC2415/LeetCode-CODE/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DC2415/LeetCode-CODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/DC2415/LeetCode-CODE/tree/master/0130-surrounded-regions) |
@@ -670,6 +671,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/DC2415/LeetCode-CODE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/DC2415/LeetCode-CODE/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/DC2415/LeetCode-CODE/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/DC2415/LeetCode-CODE/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/DC2415/LeetCode-CODE/tree/master/0189-rotate-array) |
 | [0241-different-ways-to-add-parentheses](https://github.com/DC2415/LeetCode-CODE/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/DC2415/LeetCode-CODE/tree/master/0264-ugly-number-ii) |
