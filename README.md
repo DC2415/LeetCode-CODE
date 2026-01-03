@@ -659,6 +659,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1196-filling-bookcase-shelves](https://github.com/DC2415/LeetCode-CODE/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/DC2415/LeetCode-CODE/tree/master/1240-stone-game-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/DC2415/LeetCode-CODE/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/DC2415/LeetCode-CODE/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/DC2415/LeetCode-CODE/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/DC2415/LeetCode-CODE/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/DC2415/LeetCode-CODE/tree/master/1756-minimum-deletions-to-make-string-balanced) |
