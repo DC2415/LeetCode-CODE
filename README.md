@@ -356,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/DC2415/LeetCode-CODE/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0988-flip-equivalent-binary-trees](https://github.com/DC2415/LeetCode-CODE/tree/master/0988-flip-equivalent-binary-trees) |
 | [0999-regions-cut-by-slashes](https://github.com/DC2415/LeetCode-CODE/tree/master/0999-regions-cut-by-slashes) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DC2415/LeetCode-CODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/DC2415/LeetCode-CODE/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1484-linked-list-in-binary-tree](https://github.com/DC2415/LeetCode-CODE/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/DC2415/LeetCode-CODE/tree/master/2035-count-sub-islands) |
@@ -373,6 +374,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0515-find-largest-value-in-each-tree-row](https://github.com/DC2415/LeetCode-CODE/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0999-regions-cut-by-slashes](https://github.com/DC2415/LeetCode-CODE/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/DC2415/LeetCode-CODE/tree/master/1036-rotting-oranges) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DC2415/LeetCode-CODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/DC2415/LeetCode-CODE/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1484-linked-list-in-binary-tree](https://github.com/DC2415/LeetCode-CODE/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/DC2415/LeetCode-CODE/tree/master/2035-count-sub-islands) |
@@ -811,6 +813,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0789-kth-largest-element-in-a-stream](https://github.com/DC2415/LeetCode-CODE/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0988-flip-equivalent-binary-trees](https://github.com/DC2415/LeetCode-CODE/tree/master/0988-flip-equivalent-binary-trees) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/DC2415/LeetCode-CODE/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DC2415/LeetCode-CODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/DC2415/LeetCode-CODE/tree/master/1484-linked-list-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/DC2415/LeetCode-CODE/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/DC2415/LeetCode-CODE/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -834,6 +837,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0789-kth-largest-element-in-a-stream](https://github.com/DC2415/LeetCode-CODE/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0988-flip-equivalent-binary-trees](https://github.com/DC2415/LeetCode-CODE/tree/master/0988-flip-equivalent-binary-trees) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/DC2415/LeetCode-CODE/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DC2415/LeetCode-CODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/DC2415/LeetCode-CODE/tree/master/1484-linked-list-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/DC2415/LeetCode-CODE/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/DC2415/LeetCode-CODE/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
